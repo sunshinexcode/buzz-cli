@@ -13,7 +13,9 @@
     "pkg": {
         "scripts": "src/index.js",
         "targets": [
-            "node18"
+            "node18-macos-x64",
+            "node18-win-x64",
+            "node18-linux-x64"
         ]
     },
     "author": "",
